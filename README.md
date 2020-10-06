@@ -15,4 +15,5 @@ Valentina Dai: ld466@cornell.edu
 This team will be working to implement a python model to develop a new understanding of filtration. This python model will keep track of how clogged each pore is in the filter, the head loss, and the particle capture efficiency all as a function of time. This team will be using many of the core equations developed building this predictive filtration model.
 
 ## Reports and Presentations
-[Fall 2020 Report 1](https://colab.research.google.com/drive/1Jj8basxtewdS6IMNaQoA0l0V_SuHFC89)
+###Fall 2020
+[Report 1](https://colab.research.google.com/drive/1Jj8basxtewdS6IMNaQoA0l0V_SuHFC89)
