@@ -1,1 +1,17 @@
-# Filtration_Model
+# Filtration Model
+
+## Research Advisor
+
+William Pennock: whp28@cornell.edu
+
+## Current Team Members
+Malini Balachandran: mvb37@cornell.edu
+
+Nathan Michael Catoera: nlc63@cornell.edu
+
+Valentina Dai: ld466@cornell.edu
+
+## Team Goal
+This team will be working to implement a python model to develop a new understanding of filtration. This python model will keep track of how clogged each pore is in the filter, the head loss, and the particle capture efficiency all as a function of time. This team will be using many of the core equations developed building this predictive filtration model.
+
+## Reports and Presentations
