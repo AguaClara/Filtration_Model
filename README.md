@@ -1,5 +1,5 @@
 # Filtration Model
-
+Repository for Filtration Model subteam founded in 2020.
 ## Research Advisor
 
 William Pennock: whp28@cornell.edu
