@@ -17,3 +17,5 @@ This team will be working to implement a python model to develop a new understan
 ## Reports and Presentations
 ### Fall 2020
 [Report 1](https://colab.research.google.com/drive/1Jj8basxtewdS6IMNaQoA0l0V_SuHFC89)
+
+[Presentation 1](https://docs.google.com/presentation/d/1YUqsr5dGALcJEDLu-wW24VPkNCJMFgFAmyaFxsNPJ1g/edit)
