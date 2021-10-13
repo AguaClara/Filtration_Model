@@ -1,10 +1,10 @@
 # Filtration Model
 Repository for Filtration Model subteam founded in 2020.
-## Research Advisor
+## Past Research Advisor
 
 William Pennock: whp28@cornell.edu
 
-## Current Team Members
+## Past Team Members
 Malini Balachandran: mvb37@cornell.edu
 
 Nathan Michael Catoera: nlc63@cornell.edu
